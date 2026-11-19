@@ -1,49 +1,53 @@
-# \<Your Game Title Here\>: Game Design Document
-This document should provide a brief outline and direction for your game to get you thinking about the game that you want to design, how you will make it, and what you need to make?
 
-For each of these provide at least a short paragraph describing each, unless otherwise noted:
+# Skyfall Catch: Game Design Document
+
+This document provides a brief outline and direction for the game, including its gameplay, design, characters, and required resources.
 
 ## Vision Statement
-Provide a brief (1-2 sentence statement) of your vision of the game.
 
-## Gameplay 
-What will game play entail:
+Skyfall Catch is a 2D space-themed game where the player collects falling crystals while avoiding harmful objects and aliens. The goal is to collect as many crystals as possible within a time limit while staying alive.
+
+## Gameplay
+
+The player controls a human character on a planet in a solar system. Different objects fall from above, including crystals, harmful objects, aliens, and health items. The player needs to collect crystals, avoid dangerous objects, and survive until the timer runs out.
 
 ### Mechanics
-What are the choices that players are making in the game? 
-What are the core mechanics, i.e., the ones that are getting performed repeatedly?
+
+The main mechanic is moving left and right to collect falling crystals. Players need to decide which objects to collect and which to avoid. Crystals increase the score, harmful objects and aliens reduce health, and health items restore health. As the game progresses, objects may fall faster to increase the difficulty.
 
 ### Scoring and/or Win / Lose Conditions
-How will players win or lose or know how they are performing in the game?
+
+Players earn points by collecting crystals. The goal is to collect as many crystals as possible before the timer runs out. The game ends when the time reaches zero or the player's health reaches zero. If the player survives until the timer ends, the final score is displayed.
 
 ### Controls
-How will the player execute mechanics?
+
+The player uses the left and right arrow keys or A and D keys to move the character. The controls will be simple so players can focus on collecting crystals and avoiding dangerous objects.
 
 ### Aesthetic
-How would you describe your vision of the aesthetic of the game?
+
+The game will have a colorful 2D cartoon-style space environment. The background will include planets, stars, and other space elements. Crystals will be bright and colorful, while harmful objects and aliens will have different appearances so players can easily recognize them.
 
 ### Desired Player Experience
-What should be the emotional experience of playing this game?
+
+The game should be fun, exciting, and slightly challenging. Players should feel excited when collecting crystals and experience some tension when avoiding harmful objects. The goal is to encourage players to improve their scores with each attempt.
 
 ## Game Characters
-Who are the characters of your game? Include both player characters (PCs) and non-player characters (NPCs).
+
+The main character is a human space explorer who collects crystals. The game will also include small aliens that fall from above and damage the player when touched. These aliens act as obstacles that the player needs to avoid.
 
 ## Story
-If your game includes a story, describe it here. Provide a short narrative describing what is happening in your game?
+
+A space explorer lands on a mysterious planet where valuable crystals are falling from the sky. However, dangerous objects and aliens are also falling alongside them. The explorer must collect as many crystals as possible before time runs out while avoiding danger and staying alive.
 
 ## The Game World
-If your game involves making a world, describe it. Potentially include:
-* Key Locations
-* Maps
-* Scale
-* Weather / Time
-* Society / Culture
-  
-## Media List
-Provide some direction for the art, what should it look like?
 
-Also what will you need:
-* Character Art?
-* Animations?
-* World Art?
-* Music and Sound Effects?
+The game takes place on a planet in a colorful solar system. The player moves along the planet's surface while different objects fall from above. Other planets, stars, and space elements will appear in the background. The game will have one main playing area to keep the design simple.
+
+## Media List
+
+The game will use simple 2D artwork and animations to create a colorful space environment.
+
+- **Character Art:** Human space explorer, aliens, crystals, harmful objects, and health items.
+- **Animations:** Player movement, falling objects, crystal collection, damage effects, and health recovery.
+- **World Art:** Space background, planets, stars, and the planet's surface.
+- **Music and Sound Effects:** Space-themed background music, crystal collection sounds, damage sounds, health pickup sounds, and game-over sounds.
